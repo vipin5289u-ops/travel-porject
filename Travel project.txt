@@ -1,0 +1,115 @@
+<!DOCTYPE html> 
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>travel</title>
+</head>
+<body>
+    
+ 
+       <h1>HAVE A GOOD JOURNEY </h1> <!--used for heading-->
+     <hr>    <!-- it use for horizontal line  -->
+</body>
+<body>
+    
+    <h2>Travel</h2>
+    <p>Travel is the movement of people between distant geographical locations. Travel can be done by foot, bicycle, automobile, train, boat, airplane, or other means, with or without luggage, and can be one way or round trip. Travel can also include relatively short stays between successive movements.</p>
+     <!--used for paragraph-->
+    <h3>Types of Travel</h3>
+    <ul><!--used for unordered list-->
+
+ <hr>        <!-- it use for horizontal line  -->
+        <li>Leisure Travel: For relaxation and recreation.</li> <!--used for list item-->
+        <li>Business Travel: For work-related purposes.</li>
+        <li>Adventure Travel: Involving exploration or travel to remote areas.</li>
+        <li>Cultural Travel: To experience different cultures and traditions.</li>
+        <li>Ecotourism: Focused on sustainable travel to natural areas.</li>
+    </ul> <!-- </ul> used for unordered list-->
+    <h3>Benefits of Travel</h3>
+    <ol>
+        <!--<i> is used for italic -->
+        <li><i>Cultural Exposure:</i> Learning about different cultures and traditions.</li>
+        <li><i>Personal Growth:</i> Gaining new perspectives and experiences.</li>
+        <li><i>Relaxation:</i> Taking a break from daily routines.</li>
+        <li><i>Social Connections:</i> Meeting new people and forming relationships.</li>
+        <li><i>Adventure:</i> Experiencing new activities and environments.</li>
+    </ol> <!--used for ordered list-->
+    <hr>        <!-- it use for horizontal line  -->
+    <h3>Popular Travel Destinations</h3>
+    <p><u>Some of the most popular travel destinations around the world include</u>: <br> 
+        <!--<u> is used for underline-->
+        <!--br is used for next line-->
+        
+        Paris <br> <img src ="https://static.independent.co.uk/2025/04/25/13/42/iStock-1498516775.jpg?quality=75&width=1368&crop=3%3A2%2Csmart&auto=webp&resize=1200" alt="Eiffel Tower" width="300" height="">
+        <img src = "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/21/4f/1f/c7/caption.jpg?w=500&h=400&s=1" alt ="boating in paris" width="300" height="">
+        
+
+        <!-- img src used to link the absolute image -->
+        
+        <br> New York City <br>
+        <img src="https://cdn.britannica.com/61/93061-050-99147DCE/Statue-of-Liberty-Island-New-York-Bay.jpg" alt="Statue of Liberty" width="300" height="">
+        
+        <br> London<br>
+        <img src="https://www.visitlondon.com/-/media/images/london/visit/general-london/westminster-at-dusk-london-1280x720.jpg?rev=3c05b9713c4b4405a7ab61aaeba53636&mw=800&hash=061A930869789795BC82B1A060E14562" alt="Big Ben" width="300" height="">
+        <br> Rome<br> Bali<br>  Sydney<br> Each destination offers unique<br/> attractions, cultural experiences, and natural beauty.</p>
+        <hr>
+        <!--used for paragraph-->
+        <table border="1"> <!--used for table-->
+            <thead>
+                <tr><!--tr used for row-->
+                    <th>S.No</th>
+                    <th>Destination</th> <!--used for table heading-->
+                    <th>Price</th>
+                    <th>Duration</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td> <!--used for table data-->
+                    <td>Paris</td>
+                    <td>$1500</td>
+                    <td>5 days</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>New York City</td>
+                    <td>$1200</td>
+                    <td>4 days</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>London</td>
+                    <td>$1300</td>
+                    <td>5 days</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Rome</td>
+                    <td>$1400</td>
+                    <td>6 days</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Bali</td>
+                    <td>$1600</td>
+                    <td>7 days</td>
+                </tr>
+                
+        <a href="https://www.booking.com/city/fr/paris.html?aid=1610687;label=paris-rBE9us5vG2IqgLgiowhQvwS383462382445:pl:ta:p1:p2:ac:ap:neg:fi:tikwd-282607306:lp9298366:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YfpWGnRw6lOGgfEoJVv7zYo;ws=&gad_source=1&gad_campaignid=1573209489&gbraid=0AAAAAD_Ls1JJiEpTRcV4u1tnHdA_DQibR&gclid=CjwKCAjwlt7GBhAvEiwAKal0ciHiSxMZFv2bnPt0urwwaOlOmyHKGS3cKFEbNa6VHEd4BfwFEJtYkhoC_1wQAvD_BwE"> Book a hotel in paris </a><br>
+        <!--<a href=""<a/> used paste link to further websites -->
+        
+        <a href="http://127.0.0.1:3000/contact.html?serverWindowId=a595bd78-7598-402d-a589-443fa406316c"> Contact Us </a>
+        <hr.
+    </tbody>
+
+    <h3>Travel Tips</h3> <!--used for heading-->
+    <ul>
+        <li>Plan Ahead: Research your destination and make necessary arrangements in advance.</li>
+        <li>Packing Smart: Bring only what you need and consider the climate of your destination.</li>
+        <li>Stay Safe: Be aware of your surroundings and follow local guidelines.</li>
+        <li>Respect Local Cultures: Learn about customs and traditions to avoid misunderstandings.</li>
+        <li>Stay Healthy: Keep hydrated, eat well, and get enough rest during your travels.</li>
+    </ul> <!--used for unordered list-->
+    <hr>        <!-- it use for horizontal line  -->
+   
